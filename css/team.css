@@ -1,7 +1,7 @@
 .section-team {
   background: #f4f4fd;
 }
-.section-features > h2 {
+.section-team h2 {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -13,7 +13,7 @@
   color: #2e2f42;
 }
 
-.section-team > h3 {
+.section-team h3 {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -25,7 +25,7 @@
   color: #2e2f42;
 }
 
-.section-team > p {
+.section-team p {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;

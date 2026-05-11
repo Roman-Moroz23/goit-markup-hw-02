@@ -1,10 +1,10 @@
-.section-features {
+.section-portfolio {
   background: #fff;
 }
-.section-features > li {
+.section-portfolio li {
   background: #fff;
 }
-.section-features > h2 {
+.section-portfolio h2 {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -16,7 +16,7 @@
   color: #2e2f42;
 }
 
-.section-features > h3 {
+.section-portfolio h3 {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -27,7 +27,7 @@
   color: #2e2f42;
 }
 
-.section-features > p {
+.section-portfolio p {
   font-size: 16px;
 
   /* line-height: 24px; */

@@ -1,8 +1,8 @@
 .section-footer {
   background: #2e2f42;
 }
-.Web-logo {
-  font-family: 'Raleway' sans-serif;
+.web-logo {
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
 
@@ -12,8 +12,8 @@
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.logo {
-  font-family: 'Raleway' sans-serif;
+.logo-foot {
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
 
