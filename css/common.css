@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+a {
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 4%;
+  text-decoration: none;
+}
+body {
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 2%;
+  line-height: 1.4;
+  color: #434455;
+}
+ul {
+  list-style-type: none;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+
+  /* line-height: 24px; */
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
